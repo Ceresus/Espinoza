@@ -134,7 +134,7 @@ video{
 #portafolio{
 	width:100%;
 	padding-bottom:1%;
-	background:linear-gradient(to bottom right, #F2E6D4, #E7F0EF);
+	background:linear-gradient(to bottom right, rgba(233,233,233,1), rgba(253,253,253,1));
 }
 
 .item {
